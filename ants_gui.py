@@ -1,9 +1,5 @@
 """The ants_gui module implements a GUI for Ants vs. SomeBees.
 
-You should not feel that you need to read and understand this file, because all
-of the game logic is instead contained within ants.py.  We have provided some
-comments so that interested students can extend the graphics.
-
 === Optional reading beyond this point ===
 
 The GUI for this game has a fixed layout specified by a series of global names
